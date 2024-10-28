@@ -1,0 +1,5 @@
+v1data/*
+v2data/*
+.zen
+.idea
+__pycache__
